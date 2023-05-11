@@ -1,0 +1,1 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="input_on_sound" id="f5R10Hy/M3)O{`%Q%7w1" x="0" y="0"><field name="sound">DetectedSound.Loud</field></block><block type="pxt-on-start" id="l,_YB,~|=C?IN/+=MUTk" x="344" y="-6"></block></xml>
